@@ -14,5 +14,5 @@ jobs:
         with:
           source_repo: "nirav7707/Covid-19-Tracker"
           source_branch: "develop"
-          destination_repo: "kkataria/Covid-19-Tracker"
+          destination_repo: "kkataria3010/Covid-19-Tracker"
           destination_branch: "develop"
